@@ -21,8 +21,7 @@ This project focuses on analyzing employee attrition trends to help HR teams ide
   Imported cleaned data into SQL Server for querying and aggregations
   Linked Power BI to SQL for live visual analysis
 ### Dashboard Creation
-    Designed interactive visuals in Power BI
-    Used slicers (filters) for: day of week, accident severity, weather, vehicle type, road surface
+ <a href="https://github.com/siddharthsinghnegi/HR_Analytics/blob/main/Screenshot%202025-08-03%20135155.png">Dashboard</a>
 ### KPIs 
  Total Employees – Overall employee count in the organization
 
