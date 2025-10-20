@@ -8,7 +8,6 @@ This project focuses on analyzing employee attrition trends to help HR teams ide
 **SQL Server** – For querying and data preparation
 **Excel** – For initial data cleaning and transformation
 **Power BI** – For data visualization and dashboard creation
-**Excel** - For data visualization and dashboard Creation
 ## process
 ### Data Understanding
   Reviewed each column for meaning.
@@ -21,7 +20,7 @@ This project focuses on analyzing employee attrition trends to help HR teams ide
   Imported cleaned data into SQL Server for querying and aggregations
   Linked Power BI to SQL for live visual analysis
 ### Dashboard Creation
- <a href="https://github.com/siddharthsinghnegi/HR_Analytics/blob/main/Screenshot%202025-08-03%20135155.png">Dashboard</a>
+ <a href="https://github.com/siddharthsinghnegi/HR_Analytics/blob/main/hr_analysis.pdf>Dashboard</a>
 ### KPIs 
  Total Employees – Overall employee count in the organization
 
